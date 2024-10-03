@@ -6,7 +6,7 @@ import streamlit as st
 
 st.title('Salary Prediction ')
 
-dataset=pd.read_csv(r"C:\Users\CHARAN\Python-Notes\K. SENAPATHI\2ndOCT\1.POLYNOMIAL REGRESSION\emp_sal.csv")
+dataset=pd.read_csv(r"your_directory")
 
 
 
